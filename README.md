@@ -6,8 +6,8 @@
 * 欢迎大家一起交流，喜欢的可以点个小赞。
 
 ### 本周五问
-<div><a href="https://github.com/Michael-lzg/weekly-interview/issues/1" target="blank">什么是渐进式jgp？</a></div>
-<div><a href="https://github.com/Michael-lzg/weekly-interview/issues/2" target="blank">CSS权重计算方式 </a></div>
-<div><a href="https://github.com/Michael-lzg/weekly-interview/issues/3" target="blank">vue中的watch如何立即执行</a></div>
-<div><a href="https://github.com/Michael-lzg/weekly-interview/issues/4" target="blank">如何分析webpack打包性能瓶颈</a></div>
-<div><a href="https://github.com/Michael-lzg/weekly-interview/issues/5" target="blank">iframe的优缺点</a></div>
+<div><a href="https://github.com/Michael-lzg/weekly-interview/issues/1" target="blank">css加载是否会阻塞dom解析和渲染</a></div>
+<div><a href="https://github.com/Michael-lzg/weekly-interview/issues/2" target="blank">请解析tcp协议的三次握手  </a></div>
+<div><a href="https://github.com/Michael-lzg/weekly-interview/issues/3" target="blank">BFC规则是什么？</a></div>
+<div><a href="https://github.com/Michael-lzg/weekly-interview/issues/4" target="blank">为什么img/input等行内标签可以设置宽和高</a></div>
+<div><a href="https://github.com/Michael-lzg/weekly-interview/issues/5" target="blank">谈谈对Object.defineProperty的理解 点</a></div>
